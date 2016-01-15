@@ -1,0 +1,11 @@
+# adjust spacing
+https://www.glyphsapp.com/tutorials/spacing/
+
+# make lowercase same as uppercase
+https://forum.glyphsapp.com/t/lowercase-same-as-uppercase/550/5
+1. go to the font tab
+2. select A-Z
+3. copy with cmd-c
+4. select a-z
+5. opt-paste with cmd-opt-v
+6. in the dialog that appears, choose to overwrite the layers
